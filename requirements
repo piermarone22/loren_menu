@@ -4,6 +4,6 @@ matplotlib
 numpy
 plotly
 FPDF
-fpdf
+fpdf2
 io
 os
