@@ -3,7 +3,4 @@ pandas
 matplotlib
 numpy
 plotly
-FPDF
 fpdf2
-io
-os
